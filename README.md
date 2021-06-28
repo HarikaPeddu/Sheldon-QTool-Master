@@ -39,7 +39,7 @@ For more reference about installing QtCreator, you can go through this helpful [
 After setting up Qt, clone this repository in a local directory on your machine
 
 ```bash
-git clone "https://github.com/sash2501/Sheldon-QTool.git"
+git clone "https://github.com/HarikaPeddu/Sheldon-QTool-Master"
 ```
 ## Using Sheldon QTool
 - The application can find Centroid as well as Moment of Inertia  of a given shape provided by the user.
